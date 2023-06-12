@@ -1,0 +1,97 @@
+
+}
+.wrapper {
+  margin: 0 auto;
+}
+.quotes {
+  background-color: white;
+  padding: 14px;
+  border: 0.2em solid slategray;
+  margin-top: 100px;
+  margin-left: 300px;
+  border-radius: 50px 100px;
+  margin-right: 300px;
+  padding-bottom: 50px;
+  padding-top: 70px;
+ box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.qot {
+  text-indent: 10px;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  font-weight: bold;
+}
+.verse{
+
+  display: block;
+  margin :0 auto;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Satisfy", cursive;
+  right: 20px;
+}
+.next {
+display: block ;
+margin: 0 auto;
+
+margin-right: 70px;
+padding:5px 30px;
+border-radius: 20px;
+font-size: 18px;
+font-weight: bold;
+color:black;
+
+}
+.prev{
+  
+
+margin-left: 70px;
+padding:5px 30px;
+border-radius: 20px;
+font-size: 18px;
+font-weight: bold;
+color:black;
+
+}
+.next:hover{
+color :white;
+background-color: #C0C0C7;
+cursor: pointer;
+
+}
+.prev:hover{
+color :white;
+background-color: #C0C0C7;
+cursor: pointer;
+
+}
+.btn{
+  background-color: black;
+  margin-left:510px;
+  margin-top:5px;
+
+text-align: center;
+height:100px;
+width:500px;
+}
+.ipt{
+ 
+  border-radius: 20px;
+  padding:8px 40px;
+}
+.comment{
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  font-size:17px;
+  font-weight: 600;
+}
+.send{
+  position: relative;
+  border-radius:15px;
+  height: 35px;
+  width:80px;
+  
+}
