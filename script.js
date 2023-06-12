@@ -31,7 +31,7 @@ ppt.addEventListener("mouseout", () => {
   emjj.innerHTML = "😔";
 });
 
-const url = `https://ajith-holy-bible.p.rapidapi.com/GetVerses?Book=1 Corinthians&chapter=13&VerseFrom=5&VerseTo=5`;
+const url = `https://ajith-holy-bible.p.rapidapi.com/GetVerses?Book=1 Corinthians&chapter=13&VerseFrom=1&VerseTo=1`;
 const options = {
   method: "GET",
   headers: {
